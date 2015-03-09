@@ -1,0 +1,8 @@
+{
+  "name": "colorbass",
+  "version": "1.0.0",
+  "description": "Function to provide color classes based on a single color keyword",
+  "main": "index.js",
+  "author": "Brent Jackson",
+  "license": "MIT"
+}
